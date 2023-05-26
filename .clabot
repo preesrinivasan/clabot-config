@@ -1,5 +1,12 @@
 {
   "contributors": [
+    "bjchambers",
+    "epinzur",
+    "jordanrfrazier",
+    "kerinin",
+    "kevinjnguyen",
+    "briangodsey"
   ],
+  "message": " Thank you for your pull request and welcome to our community! We require contributors to sign our Contributor License Agreement, and we don't seem to have you on file.\n In order for us to review and merge your code, please read the CLA at https://github.com/kaskada-ai/clabot-config/blob/317ec4a3c326202a1fa257f5a487e060201a786e/cla.pdf .\n The CLA has not been signed by users: {{usersWithoutCLA}}.\n To sign the CLA, create a *second* merge request for the file .clabot in the repo clabot-config: https://github.com/kaskada-ai/clabot-config/edit/main/.clabot to add your GitHub handle in the list of contributors. \n After signing the CLA, you can ask the clabot to recheck our CLA requirement by posting a comment with the contents `@cla-bot check` on *this* PR.",
   "label": "cla-signed"
 }
